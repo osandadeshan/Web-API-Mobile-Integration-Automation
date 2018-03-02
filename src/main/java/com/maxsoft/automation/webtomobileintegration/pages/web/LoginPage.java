@@ -15,7 +15,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class LoginPage extends WebBase {
 
-    public static String LOGIN_PAGE_URL = URL;
+    private static final String LOGIN_PAGE_URL = URL;
     private WebDriver webDriver = WebDriverSetup.webDriver;
 
     public LoginPage() {
@@ -23,11 +23,11 @@ public class LoginPage extends WebBase {
     }
 
     @FindBy(xpath = "//input[@id='username']")
-    WebElement TXT_USERNAME;
+    private WebElement TXT_USERNAME;
     @FindBy(xpath = "//input[@id='password']")
-    WebElement TXT_PASSWORD;
+    private WebElement TXT_PASSWORD;
     @FindBy(xpath = "//button[contains(text(),'Sign In')]")
-    WebElement BTN_SIGN_IN;
+    private WebElement BTN_SIGN_IN;
 
     public void navigateToLogin(){
         webDriver.get( LOGIN_PAGE_URL );

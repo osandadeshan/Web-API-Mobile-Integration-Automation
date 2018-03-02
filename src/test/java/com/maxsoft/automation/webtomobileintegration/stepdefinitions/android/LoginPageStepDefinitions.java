@@ -33,6 +33,15 @@ public class LoginPageStepDefinitions {
         }
     }
 
+    @Step("Verify that a user can login into the application using valid username and password stored in data stores <table>")
+    public void verifyLoginByDataStoreValues(Table table) throws IOException {
+        List<TableRow> rows = table.getTableRows();
+        List<String> columnNames = table.getColumnNames();
+        for (TableRow row : rows) {
+            loginPage.loginByDataStoreValues(row.getCell(columnNames.get(0)), row.getCell(columnNames.get(1)));
+        }
+    }
+
     @Step("Clear text fields in Login page")
     public void clearTextFields() throws IOException {
         loginPage.clearTextFields();

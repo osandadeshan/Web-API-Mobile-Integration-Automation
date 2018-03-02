@@ -1,6 +1,7 @@
 package com.maxsoft.automation.webtomobileintegration.pages.android;
 
 import com.maxsoft.automation.webtomobileintegration.common.AndroidBase;
+import com.maxsoft.automation.webtomobileintegration.common.Base;
 import com.maxsoft.automation.webtomobileintegration.util.AndroidDriverSetup;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -44,6 +45,8 @@ public class LoginPage extends AndroidBase {
     private static final String LOGIN_PAGE_TITLE = "Login";
     private static final String EXPERT_DECKS_HOME_PAGE_TITLE = "Expert Decks";
 
+    private static Base baseObj = new Base();
+
     public LoginPage() {
         PageFactory.initElements( AndroidDriverSetup.androidDriver, this);
     }
@@ -55,6 +58,12 @@ public class LoginPage extends AndroidBase {
     public void login(String username, String password) throws IOException {
         setTextAs(TXT_USERNAME, username);
         setTextAs(TXT_PASSWORD, password);
+        tap(BTN_SIGN_IN);
+    }
+
+    public void loginByDataStoreValues(String usernameVariableName, String passwordVariableName) throws IOException {
+        setTextAs(TXT_USERNAME, baseObj.getSpecificationDataStoreValue(usernameVariableName));
+        setTextAs(TXT_PASSWORD, baseObj.getSpecificationDataStoreValue(passwordVariableName));
         tap(BTN_SIGN_IN);
     }
 

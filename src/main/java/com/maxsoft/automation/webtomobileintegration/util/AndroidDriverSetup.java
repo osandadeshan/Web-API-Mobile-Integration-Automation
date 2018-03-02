@@ -1,6 +1,6 @@
 package com.maxsoft.automation.webtomobileintegration.util;
 
-import com.maxsoft.automation.webtomobileintegration.common.AndroidBase;
+import com.maxsoft.automation.webtomobileintegration.common.Base;
 import io.appium.java_client.android.AndroidDriver;
 import org.openqa.selenium.remote.CapabilityType;
 import org.openqa.selenium.remote.DesiredCapabilities;
@@ -38,7 +38,7 @@ public class AndroidDriverSetup {
     public static final String ANDROID_VERSION = System.getenv("android_version");
     public static final String ANDROID_DEVICE_NAME = System.getenv("android_device_name");
 
-    private static AndroidBase androidBaseObj = new AndroidBase();
+    private static Base baseObj = new Base();
 
         public static void setupDriver() throws IOException {
             prepareAndroidForAppium();
@@ -47,7 +47,7 @@ public class AndroidDriverSetup {
         public static AndroidDriver prepareAndroidForAppium() throws IOException {
                 // Set APK file path
                 File app = new File(PROJECT_ROOT + ANDROID_APK_PATH);
-                androidBaseObj.printText("Installing APK file from the path " + PROJECT_ROOT + ANDROID_APK_PATH);
+                baseObj.printText("Installing APK file from the path " + PROJECT_ROOT + ANDROID_APK_PATH);
                     DesiredCapabilities capabilities = new DesiredCapabilities();
                         // Mandatory capabilities
                         capabilities.setCapability("deviceName", ANDROID_DEVICE_NAME);
@@ -55,9 +55,9 @@ public class AndroidDriverSetup {
                         // Install APK file from the above path
                         try {
                             capabilities.setCapability("app", app.getAbsolutePath());
-                            androidBaseObj.printText("Successfully installed " + APP_NAME + " in the device!");
+                            baseObj.printText("Successfully installed " + APP_NAME + " in the device!");
                         } catch (Exception ex) {
-                            androidBaseObj.printText("Installing " + APP_NAME + " failed!\n" + ex.getMessage());
+                            baseObj.printText("Installing " + APP_NAME + " failed!\n" + ex.getMessage());
                         }
                         // Set Android version desired capability. Set your mobile device's OS version.
                         capabilities.setCapability(CapabilityType.VERSION, ANDROID_VERSION);
@@ -75,10 +75,10 @@ public class AndroidDriverSetup {
                 androidDriver.quit();
                 hasQuit = androidDriver.toString().contains("(null)");
                 if (hasQuit == Boolean.TRUE){
-                    androidBaseObj.printText("Android Driver has stopped successfully!");
+                    baseObj.printText("Android Driver has stopped successfully!");
                 } else {
                     System.out.println(hasQuit);
-                    androidBaseObj.printText("An error occurred while stopping the Android Driver!");
+                    baseObj.printText("An error occurred while stopping the Android Driver!");
                 }
         }
 

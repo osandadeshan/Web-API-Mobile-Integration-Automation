@@ -22,9 +22,10 @@ import java.util.List;
 public class CommonStepDefinitions {
 
     @FindBy(id = "com.pearsoned.smartflashcards:id/toolbar")
-    public WebElement TOOL_BAR;
+    private WebElement TOOL_BAR;
 
     private AndroidBase androidBaseObj = new AndroidBase();
+    private Base baseObj = new Base();
 
     @Step("Testing platform information")
     public void platformInfo(){
@@ -34,6 +35,26 @@ public class CommonStepDefinitions {
         Gauge.writeMessage("Targeted Android App Package Name: " + AndroidDriverSetup.ANDROID_APP_PACKAGE);
         Gauge.writeMessage("Targeted Appium Host: " + AndroidDriverSetup.APPIUM_HOST);
         Gauge.writeMessage("Targeted Appium Port: " + AndroidDriverSetup.APPIUM_PORT);
+    }
+
+    // Use this method to save strings in data store
+    @Step("Save the strings inside data stores <table>")
+    public void saveToDataStore(Table table){
+        List<TableRow> rows = table.getTableRows();
+        List<String> columnNames = table.getColumnNames();
+        for (TableRow row : rows) {
+            baseObj.saveToDataStore(row.getCell(columnNames.get(0)),row.getCell(columnNames.get(1)), row.getCell(columnNames.get(2)));
+        }
+    }
+
+    // Use this method to read strings from data store
+    @Step("Read the strings from data stores <table>")
+    public void readValueFromDataStore(Table table){
+        List<TableRow> rows = table.getTableRows();
+        List<String> columnNames = table.getColumnNames();
+        for (TableRow row : rows) {
+            baseObj.readFromDataStore(row.getCell(columnNames.get(0)),row.getCell(columnNames.get(1)));
+        }
     }
 
     @Step("Launch the mobile application")

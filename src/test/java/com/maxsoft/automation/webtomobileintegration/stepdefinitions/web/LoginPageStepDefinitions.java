@@ -13,7 +13,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class LoginPageStepDefinitions {
 
-    LoginPage loginPage = PageFactory.initElements( WebDriverSetup.webDriver, LoginPage.class);
+    private LoginPage loginPage = PageFactory.initElements( WebDriverSetup.webDriver, LoginPage.class);
 
     @Step("Navigate to login page")
     public void navigateToLogin(){

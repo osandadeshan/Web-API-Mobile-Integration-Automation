@@ -1,6 +1,6 @@
 package com.maxsoft.automation.webtomobileintegration.util;
 
-import com.maxsoft.automation.webtomobileintegration.common.WebBase;
+import com.maxsoft.automation.webtomobileintegration.common.Base;
 import io.github.bonigarcia.wdm.ChromeDriverManager;
 import io.github.bonigarcia.wdm.FirefoxDriverManager;
 import io.github.bonigarcia.wdm.InternetExplorerDriverManager;
@@ -29,7 +29,7 @@ public class WebDriverSetup {
     private static String browser = System.getenv("browser");
     public static WebDriver webDriver;
 
-    private static WebBase webBaseObj = new WebBase();
+    private static Base baseObj = new Base();
 
     public static void setupDriver() throws IOException {
         setup();
@@ -60,10 +60,10 @@ public class WebDriverSetup {
         webDriver.quit();
         hasQuit = webDriver.toString().contains("(null)");
         if (hasQuit == Boolean.TRUE){
-            webBaseObj.printText("Web Driver has stopped successfully!");
+            baseObj.printText("Web Driver has stopped successfully!");
         } else {
             System.out.println(hasQuit);
-            webBaseObj.printText("An error occurred while stopping the Web Driver!");
+            baseObj.printText("An error occurred while stopping the Web Driver!");
         }
     }
 
