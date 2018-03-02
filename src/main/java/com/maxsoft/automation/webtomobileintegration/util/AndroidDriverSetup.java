@@ -1,6 +1,6 @@
-package com.maxsoft.mobileautomation.android.util;
+package com.maxsoft.automation.webtomobileintegration.util;
 
-import com.maxsoft.mobileautomation.android.common.AndroidBase;
+import com.maxsoft.automation.webtomobileintegration.common.AndroidBase;
 import io.appium.java_client.android.AndroidDriver;
 import org.openqa.selenium.remote.CapabilityType;
 import org.openqa.selenium.remote.DesiredCapabilities;

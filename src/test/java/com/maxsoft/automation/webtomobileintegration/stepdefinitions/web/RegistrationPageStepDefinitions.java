@@ -1,7 +1,7 @@
-package com.maxsoft.mobileautomation.android.stepdefinitions.web;
+package com.maxsoft.automation.webtomobileintegration.stepdefinitions.web;
 
-import com.maxsoft.mobileautomation.android.pages.web.RegistrationPage;
-import com.maxsoft.mobileautomation.android.util.WebDriverSetup;
+import com.maxsoft.automation.webtomobileintegration.pages.web.RegistrationPage;
+import com.maxsoft.automation.webtomobileintegration.util.WebDriverSetup;
 import com.thoughtworks.gauge.Step;
 import org.openqa.selenium.support.PageFactory;
 
@@ -13,7 +13,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class RegistrationPageStepDefinitions {
 
-    RegistrationPage registrationPage = PageFactory.initElements(WebDriverSetup.webDriver, RegistrationPage.class);
+    RegistrationPage registrationPage = PageFactory.initElements( WebDriverSetup.webDriver, RegistrationPage.class);
 
     @Step("Navigate to registration page")
     public void navigateToRegistration(){

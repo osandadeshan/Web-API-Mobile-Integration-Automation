@@ -1,4 +1,4 @@
-package com.maxsoft.mobileautomation.android.util;
+package com.maxsoft.automation.webtomobileintegration.util;
 
 import com.thoughtworks.gauge.Gauge;
 import org.testng.Assert;

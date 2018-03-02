@@ -1,7 +1,7 @@
-package com.maxsoft.mobileautomation.android.common;
+package com.maxsoft.automation.webtomobileintegration.common;
 
-import com.maxsoft.mobileautomation.android.util.AndroidDriverSetup;
-import com.maxsoft.mobileautomation.android.util.WebDriverSetup;
+import com.maxsoft.automation.webtomobileintegration.util.AndroidDriverSetup;
+import com.maxsoft.automation.webtomobileintegration.util.WebDriverSetup;
 import com.thoughtworks.gauge.Gauge;
 import com.thoughtworks.gauge.Step;
 import com.thoughtworks.gauge.Table;
@@ -9,7 +9,7 @@ import com.thoughtworks.gauge.TableRow;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.testng.Assert;
-import com.maxsoft.mobileautomation.android.util.ToastMessage;
+import com.maxsoft.automation.webtomobileintegration.util.ToastMessage;
 import java.io.IOException;
 import java.util.List;
 

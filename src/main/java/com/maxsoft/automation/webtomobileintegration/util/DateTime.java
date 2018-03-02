@@ -1,4 +1,4 @@
-package com.maxsoft.mobileautomation.android.util;
+package com.maxsoft.automation.webtomobileintegration.util;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

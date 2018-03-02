@@ -1,13 +1,13 @@
-package com.maxsoft.mobileautomation.android.stepdefinitions.android;
+package com.maxsoft.automation.webtomobileintegration.stepdefinitions.android;
 
-import com.maxsoft.mobileautomation.android.pages.android.LoginPage;
+import com.maxsoft.automation.webtomobileintegration.util.AndroidDriverSetup;
+import com.maxsoft.automation.webtomobileintegration.pages.android.LoginPage;
 import com.thoughtworks.gauge.Step;
 import com.thoughtworks.gauge.Table;
 import com.thoughtworks.gauge.TableRow;
 import org.openqa.selenium.support.PageFactory;
 import java.io.IOException;
 import java.util.List;
-import static com.maxsoft.mobileautomation.android.util.AndroidDriverSetup.androidDriver;
 
 
 /**
@@ -17,7 +17,7 @@ import static com.maxsoft.mobileautomation.android.util.AndroidDriverSetup.andro
 
 public class LoginPageStepDefinitions {
 
-    private LoginPage loginPage = PageFactory.initElements(androidDriver, LoginPage.class);
+    private LoginPage loginPage = PageFactory.initElements( AndroidDriverSetup.androidDriver, LoginPage.class);
 
     @Step("Verify that the Login page title is <pageTitle>")
     public void verifyLoginPageTitle(String pageTitle) throws IOException {

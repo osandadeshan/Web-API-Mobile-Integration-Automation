@@ -1,11 +1,11 @@
-package com.maxsoft.mobileautomation.android.pages.android;
+package com.maxsoft.automation.webtomobileintegration.pages.android;
 
-import com.maxsoft.mobileautomation.android.common.AndroidBase;
+import com.maxsoft.automation.webtomobileintegration.common.AndroidBase;
+import com.maxsoft.automation.webtomobileintegration.util.AndroidDriverSetup;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import java.io.IOException;
-import static com.maxsoft.mobileautomation.android.util.AndroidDriverSetup.androidDriver;
 
 
 /**
@@ -45,7 +45,7 @@ public class LoginPage extends AndroidBase {
     private static final String EXPERT_DECKS_HOME_PAGE_TITLE = "Expert Decks";
 
     public LoginPage() {
-        PageFactory.initElements(androidDriver, this);
+        PageFactory.initElements( AndroidDriverSetup.androidDriver, this);
     }
 
     public void isLoginPageTitleEquals(String pageTitle) throws IOException {

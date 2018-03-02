@@ -1,10 +1,8 @@
-package com.maxsoft.mobileautomation.android.util;
+package com.maxsoft.automation.webtomobileintegration.util;
 
 import com.thoughtworks.gauge.screenshot.ICustomScreenshotGrabber;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
-import static com.maxsoft.mobileautomation.android.util.AndroidDriverSetup.androidDriver;
-import static com.maxsoft.mobileautomation.android.util.WebDriverSetup.webDriver;
 
 
 /**
@@ -17,9 +15,9 @@ public class CustomScreenshotFactory implements ICustomScreenshotGrabber {
     // Return a screenshot byte array
     public byte[] takeScreenshot() {
         try {
-            return ((TakesScreenshot) androidDriver).getScreenshotAs(OutputType.BYTES);
+            return ((TakesScreenshot) AndroidDriverSetup.androidDriver).getScreenshotAs(OutputType.BYTES);
         } catch (Exception ex) {
-            return ((TakesScreenshot) webDriver).getScreenshotAs( OutputType.BYTES );
+            return ((TakesScreenshot) WebDriverSetup.webDriver).getScreenshotAs( OutputType.BYTES );
         }
     }
 

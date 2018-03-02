@@ -1,6 +1,6 @@
-package com.maxsoft.mobileautomation.android.common;
+package com.maxsoft.automation.webtomobileintegration.common;
 
-import com.maxsoft.mobileautomation.android.util.WebDriverSetup;
+import com.maxsoft.automation.webtomobileintegration.util.WebDriverSetup;
 import com.thoughtworks.gauge.Gauge;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.*;

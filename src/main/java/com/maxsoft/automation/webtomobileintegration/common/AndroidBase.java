@@ -1,4 +1,4 @@
-package com.maxsoft.mobileautomation.android.common;
+package com.maxsoft.automation.webtomobileintegration.common;
 
 import com.thoughtworks.gauge.Gauge;
 import com.thoughtworks.gauge.datastore.DataStore;
@@ -11,12 +11,12 @@ import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
-import com.maxsoft.mobileautomation.android.util.AndroidDriverSetup;
-import com.maxsoft.mobileautomation.android.util.FileReadWrite;
+import com.maxsoft.automation.webtomobileintegration.util.AndroidDriverSetup;
+import com.maxsoft.automation.webtomobileintegration.util.FileReadWrite;
 import java.io.IOException;
 import java.util.*;
 import java.util.List;
-import static com.maxsoft.mobileautomation.android.util.AndroidDriverSetup.androidDriver;
+import static com.maxsoft.automation.webtomobileintegration.util.AndroidDriverSetup.androidDriver;
 
 
 /**

@@ -1,6 +1,6 @@
-package com.maxsoft.mobileautomation.android.util;
+package com.maxsoft.automation.webtomobileintegration.util;
 
-import com.maxsoft.mobileautomation.android.common.WebBase;
+import com.maxsoft.automation.webtomobileintegration.common.WebBase;
 import io.github.bonigarcia.wdm.ChromeDriverManager;
 import io.github.bonigarcia.wdm.FirefoxDriverManager;
 import io.github.bonigarcia.wdm.InternetExplorerDriverManager;

@@ -1,7 +1,7 @@
-package com.maxsoft.mobileautomation.android.stepdefinitions.web;
+package com.maxsoft.automation.webtomobileintegration.stepdefinitions.web;
 
-import com.maxsoft.mobileautomation.android.pages.web.LoginPage;
-import com.maxsoft.mobileautomation.android.util.WebDriverSetup;
+import com.maxsoft.automation.webtomobileintegration.util.WebDriverSetup;
+import com.maxsoft.automation.webtomobileintegration.pages.web.LoginPage;
 import com.thoughtworks.gauge.Step;
 import org.openqa.selenium.support.PageFactory;
 
@@ -13,7 +13,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class LoginPageStepDefinitions {
 
-    LoginPage loginPage = PageFactory.initElements(WebDriverSetup.webDriver, LoginPage.class);
+    LoginPage loginPage = PageFactory.initElements( WebDriverSetup.webDriver, LoginPage.class);
 
     @Step("Navigate to login page")
     public void navigateToLogin(){

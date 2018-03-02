@@ -1,7 +1,7 @@
-package com.maxsoft.mobileautomation.android.pages.web;
+package com.maxsoft.automation.webtomobileintegration.pages.web;
 
-import com.maxsoft.mobileautomation.android.common.WebBase;
-import com.maxsoft.mobileautomation.android.util.WebDriverSetup;
+import com.maxsoft.automation.webtomobileintegration.common.WebBase;
+import com.maxsoft.automation.webtomobileintegration.util.WebDriverSetup;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;

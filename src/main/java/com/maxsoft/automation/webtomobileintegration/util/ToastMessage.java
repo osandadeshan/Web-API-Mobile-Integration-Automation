@@ -1,15 +1,16 @@
-package com.maxsoft.mobileautomation.android.util;
+package com.maxsoft.automation.webtomobileintegration.util;
 
 import java.io.File;
 import java.io.IOException;
 import java.util.Arrays;
+
+import com.maxsoft.automation.webtomobileintegration.common.AndroidBase;
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import com.aspose.ocr.ImageStream;
 import com.aspose.ocr.OcrEngine;
-import com.maxsoft.mobileautomation.android.common.AndroidBase;
-import static com.maxsoft.mobileautomation.android.util.AndroidDriverSetup.androidDriver;
+
 import static org.bytedeco.javacpp.lept.pixDestroy;
 import static org.bytedeco.javacpp.lept.pixRead;
 import org.bytedeco.javacpp.lept.PIX;
@@ -84,7 +85,7 @@ public abstract class ToastMessage {
     }
 
     public static void captureScreenshot(String folderPath) {
-        File scrFile = ((TakesScreenshot) androidDriver)
+        File scrFile = ((TakesScreenshot) AndroidDriverSetup.androidDriver)
                 .getScreenshotAs(OutputType.FILE);
         try {
             Arrays.stream(new File(folderPath).listFiles()).forEach(File::delete);  // Delete all files in the directory (sub-directories are untouched)
