@@ -17,12 +17,12 @@ Register a user to the web application
 * Save the strings inside data stores
     |DataStore Type |Variable Name  |Value To Be Stored     |
     |---------------|---------------|-----------------------|
-    |Specification  |username       |pearsonqe5             |
+    |Specification  |username       |pearsonqe7             |
     |Specification  |password       |Password1              |
 * Register to the application using the following details stored in data stores
     |Email Address              |Confirm Email Address      |Username Variable Name In DataStore |Password Variable Name In DataStore |First Name     |Last Name      |User Role  |
     |---------------------------|---------------------------|------------------------------------|------------------------------------|---------------|---------------|-----------|
-    |pearsonqe5@pearson.com     |pearsonqe5@pearson.com     |username                            |password                            |Pearson        |Tester         |Student    |
+    |pearsonqe7@pearson.com     |pearsonqe7@pearson.com     |username                            |password                            |Pearson        |Tester         |Student    |
 * Verify that the user has successfully registered
 * Quit from the web application
 
