@@ -1,0 +1,325 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
+    <title>Pearson Terms of Use</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="../css/policies.css" media="all" />
+    <link rel="shortcut icon" type="image/x-icon" href="../img/favicon.ico" />
+
+</head>
+
+<body>
+
+
+    <section class="eula">
+        <h1>Pearson End User License Agreement</h1>
+        <p class="intro-text">Please read the following carefully</p>
+        <p class="intro-text">By clicking "I accept" or "I agree" or using the services you are entering into a binding contract with Pearson Education, Inc. and its affiliates. (collectively, "Pearson")</p>
+        <p><strong>IMPORTANT:</strong> If you are a minor (a minor often is someone under the age of 18), you may not register for, or otherwise access, the Services (as defined below), nor may you consent to the terms of this <b>End User License Agreement</b> ("EULA"
+            which includes the <b><a class="privPolicyLink" href="PearsonPrivacyPolicy.html" target="_blank">Privacy Statement</a></b>) unless your educational institution or parent consents to and accepts the terms of this EULA on your behalf.</p>
+        <p>Children under the age of 13 may not accept the terms of this EULA, register for, or otherwise access, the Services unless an educational institution or parent has established an account or registered on their behalf.</p>
+        <p>If you have any questions about this EULA, please contact us at: <a target="_blank" href="https://support.pearson.com/getsupport/">https://support.pearson.com/getsupport/</a>.</p>
+        <p>If you are a resident of New Jersey or access the Services from the State of New Jersey, please refer to Section 28, which addresses our obligations under the New Jersey Truth in Consumer Contract Warranty and Notice Act.</p>
+        <p>It is important to us that the Services provide you with a helpful and reliable experience. To protect our rights and yours, this EULA governs all uses of the Services. Access or use of the Services for which you seek registration or enrollment
+            constitutes acceptance of this EULA as a binding agreement. By using the Services, you represent that you (1) have read and understood the terms, (2) agree to use the Services in compliance with applicable laws and the terms of this EULA and
+            (3) are an Authorized User (as defined below). You may not use the Services if you do not agree with the EULA or if you are not an Authorized User.</p>
+        <ol>
+            <li>
+                <h2>Privacy Statement</h2>
+                <p>Please review our <a class="privPolicyLink" href="PearsonPrivacyPolicy.html" target="_blank">Privacy Statement</a>, which also governs your use of the Services, to understand our data collection and use practices. You acknowledge and explicitly consent to the collection and use of your data, including
+                    Personal Information (as defined in the Privacy Statement), in accordance with the Privacy Statement. Further, you acknowledge that the Privacy Statement may be revised from time to time for any reason.</p>
+            </li>
+            <li>
+                <h2>Changes to this EULA</h2>
+                <p>Pearson may make changes to this EULA from time to time for any reason. Typically, these changes are made to conform to current practices, comply with changing regulatory requirements, or other similar purposes. If Pearson modifies this
+                    EULA in a manner that materially changes the terms or scope of the Services made available to you, we will make reasonable efforts to notify you by either contacting you via email or posting reasonable notice in connection with the
+                    Services to alert you to such changes. Your continued use of the Services after reasonable notice of such changes to the EULA has been provided will constitute your consent to the revised EULA terms. If you have any questions about
+                    this EULA, please contact us at: <a target="_blank" href="https://support.pearson.com/getsupport/">https://support.pearson.com/getsupport/</a>.</p>
+            </li>
+            <li>
+                <h2>The Services</h2>
+                <p>This website and its related applications and services (collectively the "<b>Services</b>") is owned by Pearson Education, Inc. and/or its affiliated companies (collectively, "<b>we</b>," "<b>us</b>," or "<b>Pearson</b>"). The Services
+                    may be delivered to you through the Internet via your browser or app (mobile or otherwise) and may include enrollment ("<b>Enrollment</b>") in one or more online courses ("<b>Course(s)</b>") provided through the Services for use in
+                    connection with classes and programs offered by your school, employer, university or other educational institution ("<b>Institution</b>"). While your User Account (defined below) for the Services may continue for an indefinite period
+                    of time during which you may enroll in other Courses, your access to those specific Courses provided through the Services is provided on a subscription basis for a limited period of time (each a "<b>Subscription</b>"). The Services
+                    may be provided directly by Pearson or accessed through a third party integration with accounts managed by your Institution or an integrated third party service provider ("<b>Third Party Service</b>"). The Services may link to or provide
+                    options to access third party websites or applications.</p>
+            </li>
+            <li>
+                <h2>Authorized Users and User Accounts</h2>
+                <p>The Services are available only to individuals, including but not limited to educational institution, administrators and students, who have gained lawful access to the Services directly from Pearson or its Third Party Service provider
+                    or through the Institution of which such individual is affiliated ("<b>Authorized User</b>" or "<b>User</b>"). In order to initiate access to the Services, you must register for a user account ("<b>User Account</b>") by providing your
+                    first name, last name, valid email address (and in the case of Enrollments, your Institution, educational institution and Course name or code) and designating a secret and unique username and password ("<b>Account Credentials</b>"),
+                    as well as any additional information that may be required by your Institution. In some cases, your User Account may already be established for you by your Institution, or by way of direct access from an integrated Third Party Service,
+                    such as a learning management system, each of which may have additional terms of use or requirements for account access. Pearson may use your Account Credentials to validate your account prior to providing access to the Services each
+                    time you access the Services.</p>
+                <p>You may have only one active User Account at any given time. You agree to provide accurate and truthful information when creating a User Account and to promptly update such information should it change.</p>
+                <p>You may not self-register for the Services if you are under the age of 13 unless your educational institution has established an account or registered on your behalf. If you are under the age of 18, you may not register or use the Services
+                    without first obtaining permission from your parent or guardian. However, if you are under the age of 18 and enrolled at an institution of higher education, you may self-register for the Services.</p>
+                <p>The Services are not intended for use by residents of countries in which trade restrictions prohibit the sale of certain U.S. products or services. You understand and acknowledge that the administrators associated with your Institution
+                    or a Third Party Service may have access to your User Account and may suspend, modify or terminate your account access at any time and for any reason.</p>
+            </li>
+            <li>
+                <h2>Protection of Account Credentials</h2>
+                <p>Your User Account is for your personal use only. Unless we provide an approved mechanism for such use, allowing others to access or use the Services through your User Account is strictly prohibited and you are responsible for all uses
+                    of the Services associated with your Account Credentials, whether the use is made by you personally or by a third party due to your disclosure of your Account Credentials.</p>
+                <p>In order to protect the security of your Account Credentials and the Services, it is important that you maintain the confidentiality of your Account Credentials. You agree not to (1) use Account Credentials other than your own, or (2)
+                    to disclose your Account Credentials to any third party or service, other than an authorized Third Party Service. You agree to take reasonable steps to protect the secrecy of your Account Credentials and immediately notify Pearson
+                    at <a target="_blank" href="https://support.pearson.com/getsupport/">https://support.pearson.com/getsupport/</a> of any known or suspected loss, disclosure or theft of your Account Credentials and/or access codes you obtain in connection with the
+                    Services.</p>
+            </li>
+            <li>
+                <h2>Ownership of the Services</h2>
+                <p>The website, Course materials and other content provided through the Services (collectively, "<b>Materials</b>") and any supporting software, applications and systems (collectively "<b>Applications</b>") are the exclusive property of Pearson
+                    Education, Inc., its affiliates, and/or its licensors, and are protected by U.S. and international copyright and other intellectual property laws. All rights not expressly granted herein are reserved. Except as may be set forth in
+                    this EULA, the reproduction, redistribution, modification, publication, or adaptation of Materials or Applications, in whole or in part, without the express written consent of Pearson and/or its licensors is strictly prohibited. The
+                    Services may allow you to copy or download certain Materials, but please remember that the availability of this functionality does not mean that the above restrictions do not apply.</p>
+                <p>Unless otherwise indicated, trademarks, service marks and trade names (collectively "<b>Marks</b>") that appear on the Services are the property of Pearson or its licensors. Any trademarks not owned by Pearson that appear in the Services
+                    are the property of their respective owners. You agree not to misuse or disparage any Marks associated with the Services or use the Marks (or any confusingly similar marks) in such a way that would misrepresent the ownership of the
+                    Marks or otherwise confuse the public as to the source or origin of any products or services. You should not use any Mark without obtaining the written consent of the Mark owner, using appropriate notice and attribution of the owner's
+                    trademark rights, and using the Marks in accordance with applicable usage guidelines as provided by a Mark's respective owner. Any such permitted use of the Marks by you shall be to the benefit of the respective Mark owner.</p>
+            </li>
+            <li>
+                <h2>Limited License</h2>
+                <p>Pearson grants to you a limited, non-transferable, non-exclusive, non-sublicensable license to use the Services for their intended purpose and subject to the terms and restrictions set forth in this EULA, the <a class="privPolicyLink" href="PearsonPrivacyPolicy.html" target="_blank">Privacy Statement</a> and
+                    any additional terms which may be established by your Institution or Third Party Service.</p>
+                <p>You may use, display, and, when such functions are available on the Services, reformat, download, and print, Materials obtained through the Services solely for your own personal, non-commercial, and personal educational purposes.</p>
+                <p>You are responsible for meeting the then-current hardware, operating system, Internet browser and other technical requirements necessary to properly use and access the Services. All rights not specifically granted herein are reserved by
+                    Pearson. You acknowledge that the license granted under this EULA does not provide you with title to or ownership of the Services, or the Materials contained therein, but only a right of limited use subject to the terms and conditions
+                    of this EULA.</p>
+            </li>
+            <li>
+                <h2>Permitted Uses of Materials.</h2>
+                <p>You may, on an occasional and irregular basis, include insubstantial portions of the Materials in memoranda, reports and presentations, and then only to the extent that such use is for educational purposes of a non-commercial nature within
+                    the scope of, or permissible as "fair use", "fair dealing" or its equivalent under applicable copyright and intellectual property law, provided such use does not otherwise diminish the pedagogical or commercial value of the Materials
+                    or the Services and is otherwise accompanied by appropriate copyright notices. If you wish to request permission to reproduce the Materials, or if you have any questions about how to include any notices required under this Section,
+                    please refer to the information and contacts available at <a target="_blank" href="http://www.pearsoned.com/permissions">www.pearsoned.com/permissions</a>.</p>
+                <p>Please note that additional permissions may also be required from Pearson's licensors. Your use of any Materials, whether under "fair use" or by permission, must include all applicable copyright, trademark and other notices, and appropriate
+                    source attribution to Pearson and its licensors.</p>
+                <p>Before using any Materials designated as "open", OER, or available for public use, you should verify the governing licensing restrictions associated with such Materials. No right to use "open," "OER," or "available for public use" content
+                    is granted by Pearson outside of the Services.</p>
+            </li>
+            <li>
+                <h2>Prohibited Uses of Materials</h2>
+                <p>Except as you may be expressly permitted by this EULA, you may not use, modify, adapt, reformat, download, upload, post, reproduce, broadcast, publish, display, perform, transfer or redistribute any Materials in any form, format or media
+                    or by means without obtaining the prior written authorization of Pearson and/or its licensors. You acknowledge that the dissemination of any assessment questions or answers contained in the Materials will materially diminish the value
+                    of the Services and is strictly forbidden. Without limiting this restriction, you acknowledge that the following "Prohibited Uses" shall not constitute "fair use" and are specifically prohibited under the terms of this EULA in the
+                    absence of written permission and that any such Prohibited Use constitutes a material breach of the terms of this EULA:</p>
+                <ul>
+                    <li>making the Materials available in print format in connection with "course packets" and/or library reserve materials or otherwise making the Materials available online outside of the Services, regardless of whether such use is related
+                        to the course for which the Services are provided;</li>
+                    <li>making the Materials available, by any means, to others (even members of your Institution) who are not Authorized Users and/or in connection with courses or other activities for which the Services are not authorized for use;</li>
+                    <li>publishing or otherwise disseminating outside of the Services solutions to questions or other assessment content contained in the Materials (whether generated by you, Pearson or a third party);</li>
+                    <li>reproducing or distributing outside the Services, by any means, any illustrations, charts, photographs, outlines, extensive text excerpts, chapters, or e-books included in the Materials for use outside of the relevant Services.</li>
+                </ul>
+            </li>
+            <li>
+                <h2>Appropriate Use of the Services</h2>
+                <p>You are expressly prohibited from any conduct which: threatens the security, integrity or availability of the Services; provides or facilitates access to the Services by unauthorized users or services; and/or results in prohibited duplication,
+                    transmission or exposure of the Materials, Applications or User information associated with the Services. You represent and agree that you shall not use the Services in violation of this EULA, any applicable local, state, national
+                    or international law or regulation, and/or the academic rules or policies of your Institution. You further agree that you will not use the Services in a manner which threatens the security, stability or integrity of the Services or
+                    networks connected to the Services ("<b>Service Network</b>"). Without limiting the foregoing, you acknowledge and agree that that you will not take any action to:</p>
+                <ul>
+                    <li>impersonate any person or entity, or falsely state or otherwise misrepresent your affiliation with a person or entity; including using another person's User Credentials (including passwords) or making your User Credentials available
+                        for use by others;</li>
+                    <li>use or attempt to use any "deep-link," "scraper," "robot," "bot," "spider," "data mining," "computer code" or any other automated device, program, tool, algorithm, process or methodology or manual process having similar processes or
+                        functionality, to access, acquire, copy, or monitor any portion of the Services, any data or content found on or accessed through the Services, or any other Materials without the prior written consent of Pearson;</li>
+                    <li>violate any measure employed to limit or prevent access to the Services or otherwise obtain or attempt to obtain through any means any content, functionality or other information which has not been intentionally made available to you
+                        either by visible display on the Services or access through a visible link on the Services;</li>
+                    <li>decompile, reverse engineer, or otherwise attempt to obtain the source code of the Services;</li>
+                    <li>attempt, in any manner to gain unauthorized access to the Service Network, obtain the password, account, or other security information from or of any other User, or otherwise violate the security of the Service Network or access encrypted
+                        codes;</li>
+                    <li>interfere with or disrupt (or attempt to interfere with or disrupt) the proper working of the Services or Service Network, or violate any requirements, procedures, policies or regulations of the Service Network;</li>
+                    <li>take or attempt any action that, in the sole and absolute discretion of Pearson, imposes or may impose an unreasonable or disproportionately large load or burden on the Service Network, disrupts the normal flow of data, or threatens
+                        the stability of the Services or Service Network; or</li>
+                    <li>engage any conduct which, in Pearson's sole and absolute discretion, diminishes the pedagogical or commercial value of the Services, infringes any proprietary rights in the Materials or Applications, or otherwise violates this EULA.</li>
+                </ul>
+                <p>Pearson reserves the right, at its sole discretion, to suspend or terminate access to and use the Services with respect to any User that Pearson reasonably believes has undertaken, or participated in, any of the foregoing activities, violated
+                    the terms of this EULA, or whose actions have, or are likely to, otherwise cause harm to Pearson, the Services, the Service Network or other Users, or for any other reason at the sole and absolute discretion of Pearson. Additionally,
+                    Pearson may suspend or terminate your access at any time at the request of your Institution.</p>
+            </li>
+            <li>
+                <h2>Permissible User Content</h2>
+                <p>The Services may provide functionalities for Authorized Users to create, upload or post questions, responses, comments, ideas, articles, information, data, text, multimedia content, chat conversations or logs, messages and other materials
+                    or submissions ("<b>User Content</b>"). You may only post User Content that is your own original work or for which you have obtained the necessary rights or permissions for reproduction and public display through the Services and include
+                    any applicable ownership or attribution notices. (Note: The fact that content is publicly available on the Internet does not mean that such content may be freely used without seeking prior permission from the owner.) You are solely
+                    responsible for User Content that you post on the Services and agree not to create, post, upload or link to any Prohibited User Content (as defined below). Pearson does not pre-screen User Content and assumes no responsibility for
+                    User Content. The views and opinions expressed in any User Content do not necessarily reflect those of Pearson or its licensors. Pearson has the right (but not the obligation), in its sole discretion, to monitor, refuse to post or
+                    otherwise distribute, or remove any User Content for any reason and to terminate your access to the Services to prevent further posting or distribution of Prohibited User Content. If you discover any Prohibited User Content and would
+                    like to inform us, please contact us at <a target="_blank" href="mailto:dmca.agent@pearsoned.com">dmca.agent@pearsoned.com</a>.</p>
+            </li>
+            <li>
+                <h2>Use of User Content</h2>
+                <p>By creating, posting, uploading or linking to User Content, you grant to Pearson a perpetual, royalty-free, worldwide right and license to use, host, license, store, reproduce, transmit, adapt, and distribute such User Content and any
+                    derivative works created from such User Content (such as those resulting from changes we make so that your User Content works better with the Services) in connection with the Services. Further, you acknowledge and agree that your User
+                    Content shall be available to other Users on the same terms as granted by you to Pearson under this EULA and specifically this Section 12. Pearson shall not be responsible or liable for the deletion, destruction, damage, loss or failure
+                    to store any User Content. By posting User Content that is owned by third parties, you represent that you have been granted the right to grant to Pearson the right to make such User Content available to Authorized Users to the same
+                    extent as the Materials provided with the Services. You agree to provide proper copyright notices in connection with any User Content in which you or a third party assert a right of copyright. Additional terms and options may be presented
+                    through the user interface available on the Services for posting or uploading User Content which shall have the same force and effect as the terms of this EULA.</p>
+            </li>
+            <li>
+                <h2>Prohibited User Content</h2>
+                <p>You will, at all times comply with all applicable local, state, federal, and foreign laws in using the Services. You agree that you will not (directly or through others) contribute, create, upload, post, link to, or otherwise cause the
+                    distribution of any content or use the Services in any manner that:</p>
+                <ul>
+                    <li>is unlawful, harmful, threatening, abusive, harassing, tortious, defamatory, indecent, offensive, vulgar, obscene, libelous, invasive of another's privacy, hateful, or racially, ethnically or otherwise objectionable or in violation
+                        of the rules or policies of the Institution;</li>
+                    <li>infringes any patent, trademark, trade secret, copyright or other proprietary rights of any party or which you do not have a right to transmit under any law or under contractual or fiduciary relationship (such as inside information,
+                        proprietary and confidential information learned or disclosed as part of employment relationships or under nondisclosure agreements);</li>
+                    <li>jeopardizes the security, availability or integrity of the Services or causes harm to any User and his or her property through the use of malicious code or other contaminating or destructive devices;</li>
+                    <li>transmits advertising material and/or any unsolicited or unauthorized promotional materials, junk mail, SPAM, chain letters, or any other form solicitation in violation of any applicable rules, regulations or laws or otherwise interferes
+                        with the proper working of the Services or Service Network; or</li>
+                    <li>otherwise violates the terms of this EULA.</li>
+                </ul>
+            </li>
+            <li>
+                <h2>User Suggestions</h2>
+                <p>Pearson always welcomes suggestions and comments regarding the Services. Suggested improvements, additions or other comments may be submitted by you to Pearson, whether through the Services, online, offline, verbally, or in writing ("<b>User Suggestions</b>")
+                    Regardless of the manner of submission, you hereby acknowledge that all right, title and interest and any other intellectual property rights in the User Suggestions shall become the exclusive property of Pearson and may be used for
+                    its business purposes at Pearson's sole and absolute discretion without any payment or accounting to you. This policy is intended to avoid the possibility of future misunderstandings when products and services developed by Pearson
+                    might seem to others to be similar to their own submissions or comments. No reference to your personal information shall be made in connection with the any use by Pearson of User Suggestions.</p>
+            </li>
+            <li>
+                <h2>No Liability for Third Party Websites and Third Party Content</h2>
+                <p>Pearson assumes no responsibility for third party content ("<b>Third Party Content</b>"), services or applications that may be accessed by way of links on the Services to sites hosted by third parties that are outside of Pearson's control
+                    ("<b>Third-Party Sites</b>"). Pearson does not endorse or guarantee the accuracy, integrity or quality of Third Party Site or Third Party Content and disclaims all liability for any errors, omissions, violation of third-party rights
+                    or illegal conduct arising from such content or sites. The inclusion of a link to any Third Party Site in the Services does not imply that the owners of such Third-Party Sites have sponsored or endorsed the Services. Pearson is not
+                    responsible for the accessibility of Third-Party Sites accessed through links to the Services. Should you discover that a link to a Third-Party Site is no longer functional please contact us at: <a target="_blank" href="https://support.pearson.com/getsupport/">https://support.pearson.com/getsupport/</a>.
+                    Any links which directs Users to inappropriate content or Prohibited User Content should be reported to us at <a target="_blank" href="mailto:dmca.agent@pearsoned.com">dmca.agent@pearsoned.com</a>.</p>
+            </li>
+            <li>
+                <h2>Availability of the Service</h2>
+                <p>The scope and availability of the Services may vary according to (1) additional terms presented at the time of purchase or registration, (2) Enrollment in or registration for a specific Course or Service, and/or (3) any licensing terms
+                    between Pearson and your Institution. Pearson is not responsible for limitations of access resulting from any Third Party Service or as the result of certain account settings established by your Institution. You are responsible for
+                    obtaining Internet access in order to use the Services. You may access a Course available through the Services only for the duration of the Subscription purchased (typically one or two semesters depending on the Course), whether or
+                    not the Services are used and subject to Pearson's right to terminate access under this EULA. Educational institution access may be provided for an indefinite time period until otherwise terminated subject to this EULA.</p>
+                <p>While Pearson makes reasonable efforts to ensure the availability of the Services to Authorized Users with active Subscriptions, the Services may be unavailable for limited periods of time due to scheduled routine maintenance, emergency
+                    maintenance or factors beyond Pearson's control, such as disruptions of internet services or unforeseen threats to the integrity or security of the Services.</p>
+                <p>Pearson may at any time, with or without notice to you, restrict the use and accessibility of the Services and/or discontinue any portion, feature, or content of the Services. Pearson will make reasonable efforts to provide Authorized
+                    Users notice of significant changes to the Services to Authorized Users with active Subscriptions whenever reasonably feasible and provide alternative materials or services if substantial portions of the Services become unavailable.
+                    Information and updates about changes to the Services and its availability are posted regularly at Pearson Support <a target="_blank" href="https://support.pearson.com/getsupport/">https://support.pearson.com/getsupport/</a>.</p>
+            </li>
+            <li>
+                <h2>Termination of Access</h2>
+                <ol>
+                    <li><strong>Trial Access</strong>. On a case-by-case basis, Services may be made available to you for a trial review period for up to fifteen (15) days ("<b>Review Period</b>"). During the Review Period, you will be provided access to
+                        the Services without charge; however, access to the Services offered for trial review will be terminated if payment is not made prior to the end of the Review Period. Termination of a Service does not automatically terminate your
+                        User Account. Further, you expressly acknowledge and agree that if at any time during the Review Period, Pearson, in its sole discretion, determines that you are utilizing the Review Period as a substitute or proxy for a paid Service,
+                        it may immediately terminate or suspend your access to the applicable Service for which you've been granted a Review Period. In the event of any suspension or termination of your access to such a Service, you acknowledge and agree
+                        that: (a) the Service, its functionality, activities, materials, or any results generated by your use thereof may not be available to you or any other person; and (b) neither you nor any other person are authorized to access or
+                        use any results generated by your use of the suspended or terminated Course, its functionality, activities, or materials regardless of whether such results are available within the Course or the Services. If your access to a Course
+                        is terminated due to you not purchasing a Course Subscription, and then Pearson subsequently reinstates your access to the Course upon later receiving payment, any such reinstated access shall remain subject to the terms of this
+                        EULA (unless Pearson provides new terms and conditions to You at the time of such reinstated access, in which case such new terms and conditions shall apply).</li>
+                    <li><strong>Termination by You</strong>. Subject to account restrictions that may be imposed by your Institution or a Third Party Service through which access to the Services is provided, you may terminate your User Account at any time
+                        by notifying Pearson of your decision to do so. Your satisfaction with the Services is important to us. If you have any concerns or complaints about the Services or wish to terminate your access to the Services, please contact
+                        us at Pearson Support <a target="_blank" href="https://support.pearson.com/getsupport/">https://support.pearson.com/getsupport/</a>.</li>
+                    <li><strong>Termination by Pearson</strong>. Pearson may, in its sole discretion, and with or without advance notice, suspend your access to all or any part of the Services, or terminate your rights to use the Services, for any conduct
+                        or use (whether by you or anyone else having access to the Services under your Account Credentials) that Pearson reasonably believes violates this EULA.</li>
+                    <li><strong>Effect of Termination</strong>. Whether termination is initiated by you, your Institution or Pearson, Sections 12, 14, 17-21, 25 and 28 of this EULA shall survive any such termination. Any User Account information, data, settings
+                        or specifications or customizations of a Service or Subscription specific to your User Account may be permanently lost upon termination of a Service or Subscription provided through the Services, whether by you, Pearson or your
+                        Institution. User Content and other user information associated with your use of the Services may still be accessible by your Institution or, to the extent it is posted in a public forum, to other Users of the Services for which
+                        such information was posted, even after termination.</li>
+                </ol>
+            </li>
+            <li>
+                <h2>Sole Remedy</h2>
+                <p>Pearson's entire liability to you, and your sole and exclusive remedy, regarding the use of the Services shall be either restoration of access for which you have subscribed or purchased, or a refund of any fees paid directly by you to
+                    Pearson for the particular Service or Subscription. When available, refunds will only be made if requested by you in writing within the first 15 days after Enrollment or registration. Refunds can only be provided for purchases made
+                    directly from Pearson's website by an Authorized User. Refunds are not available for lost or stolen access codes, or any purchases made through third parties (for example, your campus bookstore). If you are dissatisfied with a Service
+                    or wish to request a refund, please contact us at Pearson Support <a target="_blank" href="https://support.pearson.com/getsupport/">https://support.pearson.com/getsupport/</a>.</p>
+            </li>
+            <li>
+                <h2>Disclaimer of Warranties</h2>
+                <p><b>YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT: (a) YOUR USE OF THE SERVICES IS AT YOUR OWN RISK. THE SERVICES ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS; (b) YOU HAVE NOT RELIED ON ANY STATEMENT, INFORMATION OR ADVICE FROM PEARSON'S REPRESENTATIVES OR RESELLERS WHICH WOULD BE DEEMED TO BE A WARRANTY OF THESE SERVICES OR FORM THE BASIS FOR ANY LIABILITY OF PEARSON; (c) TO THE FULLEST EXTENT PERMITTED UNDER APPLICABLE LAW, PEARSON AND ITS LICENSORS AND CONTRACTORS EXPRESSLY DISCLAIM ALL WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER EXPRESS, IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.</b>
+                </p>
+                <p><b>NEITHER PEARSON NOR ITS LICENSORS MAKE ANY REPRESENTATION OR WARRANTY THAT: (a) THE SERVICES OR YOUR USE THEREOF WILL BE UNINTERRUPTED OR ERROR-FREE; (b) THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SERVICES WILL BE ACCURATE OR RELIABLE; OR (c) THE SERVICES WILL MEET YOUR REQUIREMENTS.   </b>
+                </p>
+                <p><b>SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO THE ABOVE EXCLUSIONS MAY NOT APPLY TO YOU.</b>
+                </p>
+            </li>
+            <li>
+                <h2>Limitation of Liability</h2>
+                <p><b>IN NO EVENT SHALL PEARSON OR ITS EMPLOYEES, OFFICERS, AGENTS, CONTRACTORS OR LICENSORS BE LIABLE FOR ANY COMPENSATORY, INCIDENTAL, DIRECT, INDIRECT, SPECIAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES OF ANY KIND -- INCLUDING, WITHOUT LIMITATION ANY CLAIMS OR DAMAGES BASED ON YOUR USE OF OR INABILITY TO USE THE SERVICES, ANY THIRD PARTY WEBSITES, OR APPLICATIONS ACCESSED THROUGH THE SERVICES, DAMAGE TO PROPERTY, THIRD PARTY CLAIMS, LOSS OF PROFITS, GOODWILL, DATA, OR OTHER INTANGIBLE LOSSES, LOSSES CAUSED BY YOUR RELIANCE ON ANY CONTENT OR INFORMATION PROVIDED THROUGH THE SERVICES, AND/OR ANY OTHER LOSSES OF ANY KIND ARISING FROM YOUR USE OF THE SERVICES. PEARSON'S MAXIMUM AGGREGATE LIABILITY UNDER THIS EULA WILL IN NO EVENT EXCEED THE TOTAL FEES PAID TO PEARSON BY YOU FOR THE SPECIFIC SERVICES FROM WHICH THE LOSS ARISES. THE LIMITATIONS SET FORTH IN THIS SECTION SHALL APPLY WHETHER SUCH LIABILITY IS ASSERTED ON THE BASIS OF CONTRACT, TORT, OR OTHERWISE, EVEN IF PEARSON HAS BEEN ADVISED OF THE POSSIBILITY OF ANY SUCH LOSS OR DAMAGE, AND/OR IF ANY OF THE LIMITED REMEDIES IN THIS EULA FAIL THEIR ESSENTIAL PURPOSE. </b>
+                </p>
+                <p><b>NO ACTION, REGARDLESS OF FORM, ARISING UNDER THIS EULA MAY BE BROUGHT BY YOU MORE THAN ONE YEAR AFTER THE FACTS SUPPORTING THE CAUSE OF ACTION HAVE BECOME KNOWN, OR REASONABLY SHOULD HAVE BECOME KNOWN TO YOU. NOTHING IN THIS EULA IS INTENDED TO EXCLUDE OR LIMIT ANY CONDITION, WARRANTY, RIGHT OR LIABILITY WHICH MAY NOT BE LAWFULLY EXCLUDED OR LIMITED UNDER APPLICABLE LAW. ACCORDINGLY, ONLY THE LIMITATIONS WHICH ARE LAWFUL IN YOUR JURISDICTION WILL APPLY TO YOU AND IN SUCH INSTANCES OUR LIABILITY WILL BE LIMITED TO THE MAXIMUM EXTENT PERMITTED.</b>
+                </p>
+                <p><b>NEW JERSEY RESIDENTS OR PERSONS ACCESSING THE SERVICES FROM NEW JERSEY ARE NOT SUBJECT TO THIS ONE YEAR LIMITATION PERIOD.  SUCH PERSONS SHOULD ALSO REVIEW SECTION 28 BELOW.</b>
+                </p>
+            </li>
+            <li>
+                <h2>Representation and Warranty; Indemnity</h2>
+                <p>As a condition of your use of the Services, you warrant and represent to Pearson that you are an Authorized User and will not use the Services for any purpose that is unlawful or prohibited by this EULA. To the fullest extent permitted
+                    by applicable law, you agree to defend, indemnify and hold harmless Pearson and its employees, officers, agents, contractors, and licensors from any claims, damages, expenses, or liabilities arising from or in any way related to any
+                    violation of this EULA or unauthorized use of the Services.</p>
+            </li>
+            <li>
+                <h2>Choice of Law and Forum</h2>
+                <p>You agree that this EULA shall not be governed by the United Nations Convention on Contracts for the International Sale of Goods and that any and all actions, disputes or controversies relating to this EULA or your use of the Services
+                    (each a "Claim") shall be subject to the terms of this provision. Except as provided below, (a) you submit to the personal and exclusive jurisdiction and venue of the courts located within the County of New York, State of New York
+                    ("<b>Chosen Forum</b>") with respect to any Claim, (b) irrevocably consent to the service of process via email, personal delivery, or mailed by certified or registered mail, return receipt requested, to the mailing address set forth
+                    in your User Account; and (c) agree that any Claim will be governed by and construed subject to laws of the State of New York ("<b>Chosen Law</b>"). If you reside in Canada, the Chosen Forum shall be the courts located in the province
+                    of Ontario and the Chosen Law shall be the laws of Ontario and the laws of Canada applicable therein, without giving effect to its conflict of law principles. If you reside outside of the US and Canada, the Chosen Forum shall be the
+                    courts located in England and the Chosen Law shall be the laws of England, without giving effect to its conflict of law principles. Nothing in this paragraph is intended to limit or contravene the applicability of the local privacy
+                    and data security regulations which would otherwise govern the collection, disclosure and use of your Personal Information.</p>
+            </li>
+            <li>
+                <h2>United States Export Requirements</h2>
+                <p>This EULA and your use of the Services are subject to US regulations and laws which restrict the export by Pearson or its contractors and licensors of certain materials and technical data. You agree not to transfer, directly or indirectly,
+                    by electronic means or otherwise, any Services to any country, or to any agent, representative, or foreign national of any country, for which the U.S. Government or any agency thereof requires an export license or otherwise restricts
+                    such exports. Pursuant to current restrictions of the U.S. Government, nationals of Cuba, Iran, Myanmar (Burma), North Korea, Sudan and Syria may not use or access the Services at this time.</p>
+            </li>
+            <li>
+                <h2>DMCA and Notices of Inappropriate Content</h2>
+                <p>If you have any copyright concerns about any materials posted on the Services by others, or otherwise want to report inappropriate content on the Services, please let us know. We comply with the provisions of the Digital Millennium Copyright
+                    Act applicable to Internet service providers (17 U.S.C. Section 512). Unless otherwise stated in any specific DMCA designation provided by Pearson, please provide us with written notice ("<b>Notice</b>") by contacting our Designated
+                    Agent at the following address:</p>
+                <p>
+                    DMCA Designated Agent
+                    <br />Pearson Education, Inc.
+                    <br />200 Old Tappan Road
+                    <br />Old Tappan, NJ 07675
+                    <br />email: <a target="_blank" href="mailto:dmca.agent@pearsoned.com">dmca.agent@pearsoned.com</a>
+                </p>
+                <p>If you are a copyright owner or authorized agent of a copyright owner and believe in good faith that copyrighted work has been copied, adapted, reproduced or exhibited through the Services in a manner that constitutes copyright infringement,
+                    you may submit written notification of the claimed infringing activity to our Designated Agent. To be effective, the Notice must include the following:</p>
+                <ul>
+                    <li>A physical or electronic signature of the owner, or a person authorized to act on behalf of the owner, ("Complaining Party") of an exclusive right that is allegedly being infringed upon; Information reasonably sufficient to permit
+                        Pearson to contact the Complaining Party, such as an address, telephone number, and if available, an electronic mail address;</li>
+                    <li>Identification of the allegedly infringing material on the Services ("Infringing Material"), and information reasonably sufficient to permit Pearson to locate such material on the Services; Identification of the copyrighted work claimed
+                        to have been infringed upon ("Infringed Material"), or if multiple copyrighted works on the Services are covered by a single Notice, a list of each copyrighted work claimed to have been infringed (please be specific as to which
+                        Infringing Material is infringing on which Infringed Material);</li>
+                    <li>A statement that the Complaining Party has a good faith belief that use of Infringing Material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and</li>
+                </ul>
+                <p>A statement that the information in the Notice is accurate, and under penalty of perjury, that the Complaining Party is the owner or is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.</p>
+            </li>
+            <li>
+                <h2>Reporting other Prohibited Content</h2>
+                <p>Pearson also encourages you to report to dmca.agent@pearsoned.com any content on or accessible through the Services which you believe contains infringing content, malicious code, or any offensive, libelous, or otherwise illegal or that
+                    is otherwise prohibited under this EULA. To ensure Pearson can quickly respond to the issue, your email should include: the originating Pearson page URL; the linked page URL; a description of the content in question and the basis upon
+                    which you believe the content is prohibited or otherwise inappropriate; and the contact information through which Pearson may best reach you if you are willing to further assist Pearson in its investigation.</p>
+            </li>
+            <li>
+                <h2>Miscellaneous</h2>
+                <p>This EULA is personal to you, and you may not assign, transfer or delegate your rights or obligations under this EULA to anyone. Pearson may assign or delegate its rights or obligations under this EULA, in whole or in part, subject to
+                    Pearson's right and obligations under this EULA and any agreement it may have with your Institution. In the event that any provision of this EULA is held by a court of competent jurisdiction to be invalid or unenforceable for any reason,
+                    the remainder of this EULA shall remain valid and enforceable according to its terms. This EULA is the entire agreement between Pearson and you with respect to the Services and cannot be modified absent a signed written agreement.
+                    Headings in this EULA are for your convenience only and do not have any legal meaning or effect. If Pearson waives or fails to enforce any term or condition of this EULA on any one or more occasions, whether by conduct or otherwise,
+                    its waiver or failure to enforce such terms will not prevent Pearson from enforcing any terms or condition of this EULA at any other time. The meaning of this EULA cannot be changed by your or Pearson's conduct, even if repeated, or
+                    by any custom or practice of others engaged in the same or similar businesses. In addition to being a part of the registration form, this EULA is accessible through a link on the Services so that you may reference it at any time. It
+                    is the express wish of the parties that this EULA and all related documents be drawn up in English. C'est la volonte expresse des parties que la presente convention ainsi que les documents qui s'y rattachent soint rediges en anglais.</p>
+            </li>
+            <li>
+                <h2>Provisions Not Applicable in New Jersey</h2>
+                <p>Pursuant to the New Jersey Truth in Consumer Contract Warranty and Notice Act, the following provisions in this Terms of Use do not apply to those persons covered by that law such as residents of the State of New Jersey or individuals
+                    accessing the Services from within the State of New Jersey: Sections 16 and 19-22.</p>
+            </li>
+        </ol>
+        <p class="margin-top"><b>Version: 1.1</b>
+            <br />
+            <b>Last Revised: June 23, 2017</b>
+        </p>
+
+    </section>
+
+
+
+<iframe name="chromedriver dummy frame" src="about:blank"></iframe></body></html>
