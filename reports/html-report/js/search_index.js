@@ -1,1 +1,1 @@
-var index = {"Tags":{"mobile_login":["specs\\New User Login.html"],"web_registration":["specs\\New User Login.html"]},"Specs":{"New User Login Specification":["specs\\New User Login.html"]}};
+var index = {"Tags":{"api_validation":["specs\\new_user_login.html"],"mobile_login":["specs\\new_user_login.html"],"web_registration":["specs\\new_user_login.html"]},"Specs":{"New User Login Specification":["specs\\new_user_login.html"]}};

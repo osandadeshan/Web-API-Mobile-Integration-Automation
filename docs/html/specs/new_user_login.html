@@ -1,0 +1,137 @@
+<link rel="stylesheet" type="text/css" href="..\style.css"><h1>New User Login Specification</h1>
+<p>Date Created    : 03/02/2017
+Version         : 1.0.0
+Owner           : Osanda Deshan
+Description     : This is an executable specification file which follows markdown syntax. Every heading in this file denotes a scenario. Every bulleted point denotes a step.</p>
+<p>tags: web_registration, api_validation, mobile_login</p>
+<h2>Register a user to the web application</h2>
+<ul>
+<li>Launch the web application</li>
+<li>Navigate to registration page</li>
+<li>Web page title is &quot;Pearson Create Account&quot;</li>
+<li>Save the strings inside data stores
+<table>
+<thead>
+<tr>
+<th>DataStore Type</th>
+<th>Variable Name</th>
+<th>Value To Be Stored</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Specification</td>
+<td>username</td>
+<td>pearsonqe15</td>
+</tr>
+<tr>
+<td>Specification</td>
+<td>password</td>
+<td>Password1</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li>Register to the application using the following details stored in data stores
+<table>
+<thead>
+<tr>
+<th>Email Address</th>
+<th>Confirm Email Address</th>
+<th>DataStore Type</th>
+<th>Username Variable Name In DataStore</th>
+<th>Password Variable Name In DataStore</th>
+<th>First Name</th>
+<th>Last Name</th>
+<th>User Role</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="mailto:pearsonqe15@pearson.com" rel="nofollow">pearsonqe15@pearson.com</a></td>
+<td><a href="mailto:pearsonqe15@pearson.com" rel="nofollow">pearsonqe15@pearson.com</a></td>
+<td>Specification</td>
+<td>username</td>
+<td>password</td>
+<td>Pearson</td>
+<td>Tester</td>
+<td>Student</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li>Message appears after the registration is &quot;Account created&quot;</li>
+<li>Quit from the web application</li>
+</ul>
+<h2>Validate above registered user from backend</h2>
+<ul>
+<li>Set request payload using data stores for PI authentication API
+<table>
+<thead>
+<tr>
+<th>Attribute Name</th>
+<th>DataStore Type</th>
+<th>Attribute Variable Name In DataStore</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>userName</td>
+<td>Specification</td>
+<td>username</td>
+</tr>
+<tr>
+<td>password</td>
+<td>Specification</td>
+<td>password</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li>Invoke PI authentication API</li>
+<li>Status code for PI authentication API is &quot;201&quot;</li>
+<li>JSON Path Assertions for the PI authentication API
+<table>
+<thead>
+<tr>
+<th>JSON Path</th>
+<th>JSON Path Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>status</td>
+<td>success</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
+<h2>Login to the mobile application using the above registered user</h2>
+<ul>
+<li>Launch the mobile application</li>
+<li>Login page title is &quot;Login&quot;</li>
+<li>Login into the application using valid username and password stored in data stores
+<table>
+<thead>
+<tr>
+<th>DataStore Type</th>
+<th>Username Variable Name In DataStore</th>
+<th>Password Variable Name In DataStore</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Specification</td>
+<td>username</td>
+<td>password</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li>Skip the welcome flow</li>
+<li>Tap 'Got It' button</li>
+<li>Page title is &quot;Expert Decks&quot;</li>
+<li>Quit from the mobile application</li>
+</ul>
+<ul id="navigation"><center><li class="nav"><a href="..\index.html">=</a></li></center>

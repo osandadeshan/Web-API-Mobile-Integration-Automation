@@ -1,2 +1,2 @@
-var tags = []
-var specs = null
+var tags = ["web_registration", "api_validation", "mobile_login"]
+var specs = [{"path":"specs\\new_user_login.html","name":"New User Login Specification","scenarios":[{"name":"Register a user to the web application","tags":["web_registration","api_validation","mobile_login"]},{"name":"Validate above registered user from backend","tags":["web_registration","api_validation","mobile_login"]},{"name":"Login to the mobile application using the above registered user","tags":["web_registration","api_validation","mobile_login"]}]}]
