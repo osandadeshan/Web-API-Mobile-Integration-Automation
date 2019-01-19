@@ -4,6 +4,7 @@
 ## Pre Requisites
 1. Java
 2. Maven
+3. Appium
 <br />
 
 ## How to Install Gauge Core
