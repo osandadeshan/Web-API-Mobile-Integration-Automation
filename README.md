@@ -1,4 +1,4 @@
-# Setup Guide
+# Web, API and Mobile Integration Automation Demo - Setup Guide
 <br />
 
 ## Pre Requisites
